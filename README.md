@@ -1,2 +1,2 @@
-# firebase
+git add .# firebase
 firebase studio
